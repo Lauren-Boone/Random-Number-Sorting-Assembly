@@ -1,0 +1,5 @@
+Run in visual studio
+To set up environment follow instructions:
+http://www.asmirvine.com/gettingStartedVS2017/index.htm
+
+You will be asked to enter a number between 10 and 200. Random numbers will be generated and printed, then sorted. 
